@@ -50,14 +50,14 @@ font-family: 'Work Sans', sans-serif; */
 }
 
 .card2{
-    background-image: url("images/Ocean.jpg");
+    background-image: url("/images/Ocean.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .card3{
-    background-image: url("images/Space.jpg");
+    background-image: url("/images/Space.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
